@@ -23,6 +23,7 @@ Follow these steps to get the add-on installed on your system:
   
   - Copy "https://github.com/evcc-io/hassio-addon" Click -> Add
   
+  - Reload the WebSite (CTRL+R or CTRL+F5 or CTRL+Fn+F5)
   - Find the "evcc" add-on and click it.
   - Click on the "INSTALL" button.
   - Go to Information nenu in the "evcc" Addon and activate "show in side bar"
@@ -43,7 +44,7 @@ Follow these steps to get the add-on installed on your system:
         - https://www.home-assistant.io/docs/configuration/
         - https://www.home-assistant.io/common-tasks/os/#installing-and-using-the-samba-add-on
 
-!! NOTE !!
+# !! NOTE !!
 
 The Home Assistant Addon evcc is based on docker, there is no possibility to create a configuration file for evcc inside the evcc docker with "evcc configure"!
 
